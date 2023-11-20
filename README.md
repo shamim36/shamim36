@@ -54,7 +54,7 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
     </a>
   <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
-    <img src="https://openjfx.io/favicon.ico" alt="javafx" width="40" height="40"/>
+    <img src="[https://openjfx.io/favicon.ico](https://th.bing.com/th/id/OIP.3UXgkaTFqLDg2lEqMqU08gHaDF?rs=1&pid=ImgDetMain)" alt="javafx" width="40" height="40"/>
   </a>
   <!-- Add more frameworks as needed -->
 </p>
