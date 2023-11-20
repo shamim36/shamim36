@@ -56,6 +56,9 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://developer.android.com/studio/images/studio-icon-preview.svg" alt="android-studio" width="40" height="40"/>
+  </a>
   <!-- Add more frameworks as needed -->
 </p>
 
