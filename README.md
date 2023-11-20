@@ -53,8 +53,8 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
     </a>
-  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
-    <img src="https://openjfx.io/jfx-icon.png" alt="javafx" width="40" height="40"/>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
   <!-- Add more frameworks as needed -->
 </p>
