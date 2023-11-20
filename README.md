@@ -1,6 +1,5 @@
 [![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)](https://www.linkedin.com/in/shamim888/)
-<h1 align="center">
-<a href="https://linkedin.com/in/shamim888" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/104686222?v=4" height="30" width="40" /></a>  </h1>
+
 <h1 align="center">Hi 👋, I'm Md Shamim Ahamed</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
