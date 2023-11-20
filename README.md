@@ -1,6 +1,6 @@
 [![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)](https://www.linkedin.com/in/shamim888/)
-<h1 align="center"><p align="left">
-<a href="https://linkedin.com/in/shamim888" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://media.licdn.com/dms/image/D5603AQHXosWvT_WSCQ/profile-displayphoto-shrink_800_800/0/1693861380904?e=1706140800&v=beta&t=MomrqlCXx5XUUbskzIwzkFxCNvG1-z2phzk3zuCcS0s)" alt="shamim888" height="30" width="40" /></a> </p> </h1>
+<h1 align="center">
+<a href="https://linkedin.com/in/shamim888" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://media.licdn.com/dms/image/D5603AQHXosWvT_WSCQ/profile-displayphoto-shrink_800_800/0/1693861380904?e=1706140800&v=beta&t=MomrqlCXx5XUUbskzIwzkFxCNvG1-z2phzk3zuCcS0s)" alt="shamim888" height="30" width="40" /></a>  </h1>
 <h1 align="center">Hi 👋, I'm Md Shamim Ahamed</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
