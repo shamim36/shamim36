@@ -52,6 +52,7 @@
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    </a>
   <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
     <img src="https://openjfx.io/favicon.ico" alt="javafx" width="40" height="40"/>
   </a>
