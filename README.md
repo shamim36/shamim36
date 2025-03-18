@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **- Chess Game Application**
+- 🔭 I’m currently working on **- UtshobKotha - An Event Management App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Next JS, ASP.NET Core**
 
 - 💬 Ask me about **Android , Flutter , Dart**
 
