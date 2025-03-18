@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **- UtshobKotha - An Event Management App**
 
-- 🌱 I’m currently learning **Next JS, ASP.NET Core**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 💬 Ask me about **Android , Flutter , Dart**
 
