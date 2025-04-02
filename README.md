@@ -102,6 +102,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shamim36&show_icons=true&theme=radical" alt="shamim36" width="48%"/>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamim36&theme=radical" alt="shamim36" width="48%"/>
 </p>
 
