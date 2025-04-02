@@ -116,4 +116,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=shamim36&theme=onedark" alt="shamim36" />
+</p>
